@@ -1,0 +1,42 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Source sans Pro',Calibri,Tahoma,sans-serif;
+}
+.entete{
+    height: 140px;
+}
+.infos{
+    float: left;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    float: right;
+}
+article {
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 23px;
+    text-transform: uppercase;
+    color: forestgreen;
+    border-bottom: 3px solid forestgreen;
+  
+}
+h3{
+    text-transform: uppercase;
+}
+
+ul{
+    list-style-type: none;  
+    padding: 0;
+    margin: 0;
+}
+li{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
